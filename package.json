@@ -1,0 +1,12 @@
+{
+  "name": "traverse",
+  "version": "1.0.0",
+  "description": "Recursively traverse a directory returning the paths of all files within the directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miles Hingston <miles@bitshift.cc>",
+  "license": "MIT"
+}
